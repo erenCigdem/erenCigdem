@@ -1,10 +1,6 @@
 ## Hi there 👋
 
 
-**erenCigdem/erenCigdem** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 ### Hi there, I'm Eren! 👋
 
 - 🔭 **I’m currently working on** basic Python console apps and exercises.
